@@ -671,5 +671,5 @@ flex-direction: column;
 .small_product_box img {
     position: absolute;
     right: 30px;
-    top: 40px;
+    bottom: 15px;
 }
